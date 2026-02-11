@@ -3,10 +3,14 @@
 ---
 
 ### 👨‍💻 Software Engineer | Full Stack Developer
-I’m a passionate **Software Engineer**, specialized in Full-Stack Web Development, with hands-on expertise in frameworks such as **Node.js**, **Next.js**, **Nest.js**, **Vue.js**, **Refine.dev**, and **React.js**. 
+I’m a passionate **Software Engineer**, specialized in Full-Stack Web Development, with hands-on expertise in frameworks such as **Node.js**, **Next.js**, **Nest.js**, **Vue.js**, **Refine.dev**, and **React.js**.
+
 I have a proven track record of deploying robust applications on platforms like **Vercel**, **Netlify**, **Railway**, and **Kubernetes**, ensuring scalable and efficient solutions. 
+
 My experience also encompasses database management with **PostgreSQL** and **NoSQL** databases, along with data-driven decision-making. 
+
 Passionate about continuous learning and collaborative **problem-solving**, I strive to deliver high-quality, user-centric solutions across all projects.
+
 I love building scalable, maintainable applications using the latest frameworks and **cloud services** to build robust and secure applications.
 
 ---
