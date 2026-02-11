@@ -3,12 +3,11 @@
 ---
 
 ### 👨‍💻 Software Engineer | Full Stack Developer
-
-I’m a passionate software engineer with experience in modern web and mobile technologies.  
-I love building scalable, maintainable applications using the latest frameworks and cloud services.
-
-I have deployed projects on **AWS**, **Vercel**, **Netlify**, and **Kubernetes**.  
-I've worked extensively with **Knowledge Graphs**, **Elasticsearch**, and **OpenID Connect** to build robust and secure applications.
+I’m a passionate **Software Engineer**, specialized in Full-Stack Web Development, with hands-on expertise in frameworks such as **Node.js**, **Next.js**, **Nest.js**, **Vue.js**, **Refine.dev**, and **React.js**. 
+I have a proven track record of deploying robust applications on platforms like **Vercel**, **Netlify**, **Railway**, and **Kubernetes**, ensuring scalable and efficient solutions. 
+My experience also encompasses database management with **PostgreSQL** and **NoSQL** databases, along with data-driven decision-making. 
+Passionate about continuous learning and collaborative **problem-solving**, I strive to deliver high-quality, user-centric solutions across all projects.
+I love building scalable, maintainable applications using the latest frameworks and **cloud services** to build robust and secure applications.
 
 ---
 
@@ -36,7 +35,7 @@ I've worked extensively with **Knowledge Graphs**, **Elasticsearch**, and **Open
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 </div>
 
-*Building robust APIs and services with Node.js ecosystem and various database technologies.*
+*Building robust APIs and services with the Node.js ecosystem and various database technologies.*
 
 ### 🌐 Frontend Development
 <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 20px 0;">
