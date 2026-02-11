@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Aun Afzaal
+# Hi there 👋, I’m Muhammad Aun Afzaal
 
 ---
 
@@ -129,4 +129,4 @@ I love building scalable, maintainable applications using the latest frameworks 
 
 ### 🎉 Fun Fact
 
-> I enjoy contributing to open-source and love learning new tech every day! When I'm not coding, you can find me hiking or reading about space exploration.
+I enjoy learning new tech every day! When I'm not coding, you can find me hiking, traveling, or reading.
