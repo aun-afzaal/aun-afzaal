@@ -1,3 +1,6 @@
+<a href="https://abcodify.com" target="_blank">
+  <img src="https://abcodify.com/logo.svg" alt="ABCodify">
+</a>
 # Hi there 👋, I’m Muhammad Aun Afzaal
 
 ---
@@ -122,9 +125,6 @@ I love building scalable, maintainable applications using the latest frameworks 
   </a>
    <a href="https://wa.me/923361484463" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://abcodify.com" target="_blank">
-    <img src="https://abcodify.com/logo.svg" alt="ABCodify">
   </a>
 </div>
 
