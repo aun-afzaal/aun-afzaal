@@ -1,6 +1,8 @@
 <a href="https://abcodify.com" target="_blank">
   <img src="https://abcodify.com/logo.svg" alt="ABCodify">
 </a>
+---
+
 # Hi there 👋, I’m Muhammad Aun Afzaal
 
 ---
