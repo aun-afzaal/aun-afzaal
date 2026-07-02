@@ -143,7 +143,7 @@ I focus on **clean code, performance optimization, and real-world problem solvin
   <a href="mailto:codewithaun@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-   <a href="https://wa.me/923361484463" target="_blank">
+   <a href="https://wa.me/923361484463?text=Hi%20Muhammad%20Aun%20Afzaal" target="_blank">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="48" alt="WhatsApp"/>
   </a>
 </p>
