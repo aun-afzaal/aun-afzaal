@@ -140,7 +140,7 @@ I focus on **clean code, performance optimization, and real-world problem solvin
   <a href="https://github.com/aun-afzaal">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:codewithaun@gmail.com">
+  <a href="mailto:dev.aunafzaal@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
    <a href="https://wa.me/923361484463?text=Hi%20Muhammad%20Aun%20Afzaal" target="_blank">
