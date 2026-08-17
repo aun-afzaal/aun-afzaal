@@ -1,12 +1,14 @@
-<p align="center">
-  <a href="https://abcodify.com" target="_blank">
-    <img src="https://abcodify.com/logo.png" alt="ABCodify" width="350"/>
-  </a>
-</p>
-
 <!-- 🔥 Animated Banner Top -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=👋%20Hi,%20I'm%20Muhammad%20Aun%20Afzaal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=👋%20Hi,%20I'm%20Muhammad%20Aun%20Afzaal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+<!--Logo-->
+
+<p align="">
+  <a href="https://abcodify.com" target="_blank">
+    <img src="https://abcodify.com/logo.png" alt="ABCodify" width="300"/>
+  </a>
 </p>
 
 ### 🚀 Software Engineer | Full-Stack Architect | Cloud Enthusiast
@@ -148,9 +150,7 @@ With deep proficiency in **full-stack engineering** and **cloud-native ecosystem
 I am committed to **continuous integration of knowledge**, learning something new every single day. 
 When I am off the grid, I am **traveling, exploring new cultures, and conceptualizing new ideas**.
 
----
-
 <!-- 🔥 Animated Banner Bottom -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&fontSize=40&fontColor=00e5ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&fontSize=40&fontColor=00e5ff" width="100%"/>
 </p>
